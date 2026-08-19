@@ -1,74 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Watch faces are a special application type that display on the main screen of Garmin’s wearable devices. These application types are limited some ways to allow them to have minimal impact on the device’s battery life.",
-      "items": [],
-      "title": "Watch faces"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Older resources"
-    },
-    {
-      "description": "Data fields allow customers and third party developers to write additional metrics and data that will display with Garmin activities. The goal is to create a system that not only makes it easy for a user to make a quick data field based off our workout data, but also gives the developer the the ability to customize the presentation.",
-      "items": [],
-      "title": "Data fields"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Older resources"
-    },
-    {
-      "description": "Widgets are mini-apps that allow developers to provide glanceable views of information. The information may be from a cloud service, from the onboard sensors, or from other Connect IQ APIs. Widgets are launchable from a rotating carousel of pages accessible from the main screen of wearables, or from a side view on bike computers and outdoor handhelds. Unlike apps, Widgets time out after a period of inactivity and are not allowed to record activities, but they are also launchable at any time.",
-      "items": [],
-      "title": "Widgets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Older resources"
-    },
-    {
-      "description": "Applications, or Device Apps, are by far the most robust type of app available. These allow the most flexibility and customization to the app designer. They also provide the most access to the capabilities of the wearable device, such as accessing ANT+ sensors, the accelerometer and reading/recording FIT files.",
-      "items": [],
-      "title": "Device Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Older resources"
-    },
-    {
-      "description": "Audio content providers. Garmin media enabled devices are designed for active lifestyle users who want to listen to music without carrying their phone on their rides, runs or other activities. The media player allows the user to listen to their music, podcasts, and audio-books on the go.",
-      "items": [],
-      "title": "Audio content providers"
-    },
-    {
-      "description": "Developers can create custom Monkey C libraries, called Monkey Barrels, that contain source code and resource information that are easily shared across Connect IQ Projects.",
-      "items": [],
-      "title": "Barrels"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Companion apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T23:51:12.124Z",
+    "last_updated": "2026-08-19T12:28:55.704Z",
     "original_repository": "bombsimon/awesome-garmin",
+    "original_repository_id": 749416501,
     "original_repository_sha": "5e276a96ff9e1b8f17073aa2832010e1c2d967b4",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
