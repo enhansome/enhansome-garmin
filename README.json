@@ -6906,7 +6906,7 @@
             "last_commit": "2026-04-17T21:07:33Z",
             "owner": "TDF-PL",
             "repo": "TAKWatch-IQ",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -9750,7 +9750,7 @@
             "last_commit": "2026-08-23T18:11:36Z",
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3272
+            "stars": 3273
           }
         },
         {
@@ -10518,7 +10518,7 @@
             "archived": false,
             "id": 383732864,
             "language": "Python",
-            "last_commit": "2026-08-19T10:02:09Z",
+            "last_commit": "2026-08-25T06:04:25Z",
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
             "stars": 550
@@ -11009,7 +11009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:50:45.329Z",
+    "last_updated": "2026-08-25T06:19:22.999Z",
     "original_repository": "bombsimon/awesome-garmin",
     "original_repository_id": 749416501,
     "original_repository_sha": "f41fe9548607dcd8ff53edf6112abf5dda7fd8d0",
