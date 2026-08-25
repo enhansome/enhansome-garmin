@@ -12,7 +12,7 @@
             "archived": false,
             "id": 190060804,
             "language": "Monkey C",
-            "last_commit": "2026-08-23T20:08:49Z",
+            "last_commit": "2026-08-25T10:02:02Z",
             "owner": "okdar",
             "repo": "smartarcsactive",
             "stars": 11
@@ -7323,7 +7323,7 @@
             "archived": false,
             "id": 206563447,
             "language": "Monkey C",
-            "last_commit": "2025-03-03T12:41:09Z",
+            "last_commit": "2026-08-25T14:04:25Z",
             "owner": "Sonicious",
             "repo": "GarminApps",
             "stars": 0
@@ -9750,7 +9750,7 @@
             "last_commit": "2026-08-23T18:11:36Z",
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3273
+            "stars": 3274
           }
         },
         {
@@ -9762,7 +9762,7 @@
             "archived": false,
             "id": 1184570491,
             "language": "Python",
-            "last_commit": "2026-08-24T18:18:32Z",
+            "last_commit": "2026-08-25T17:29:21Z",
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
             "stars": 17
@@ -9792,7 +9792,7 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:49:34Z",
+            "last_commit": "2026-08-25T16:03:47Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 156
@@ -9825,7 +9825,7 @@
             "last_commit": "2026-08-16T19:53:09Z",
             "owner": "diegoscarabelli",
             "repo": "garmin-health-data",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -9855,7 +9855,7 @@
             "last_commit": "2026-08-12T15:44:39Z",
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3424
+            "stars": 3428
           }
         },
         {
@@ -9870,7 +9870,7 @@
             "last_commit": "2026-08-11T03:07:46Z",
             "owner": "muktihari",
             "repo": "fit",
-            "stars": 175
+            "stars": 176
           }
         },
         {
@@ -10035,7 +10035,7 @@
             "last_commit": "2026-06-23T10:28:54Z",
             "owner": "RobertWojtowicz",
             "repo": "export2garmin",
-            "stars": 268
+            "stars": 269
           }
         },
         {
@@ -10170,7 +10170,7 @@
             "last_commit": "2026-01-05T10:21:18Z",
             "owner": "openivity",
             "repo": "openivity.github.io",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -10521,7 +10521,7 @@
             "last_commit": "2026-08-25T06:04:25Z",
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -11009,7 +11009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:22.999Z",
+    "last_updated": "2026-08-25T23:52:04.940Z",
     "original_repository": "bombsimon/awesome-garmin",
     "original_repository_id": 749416501,
     "original_repository_sha": "f41fe9548607dcd8ff53edf6112abf5dda7fd8d0",
