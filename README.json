@@ -27,7 +27,7 @@
             "archived": false,
             "id": 183693321,
             "language": "Monkey C",
-            "last_commit": "2026-08-23T19:57:45Z",
+            "last_commit": "2026-08-26T13:32:02Z",
             "owner": "okdar",
             "repo": "smartarcs",
             "stars": 8
@@ -360,7 +360,7 @@
             "last_commit": "2026-04-03T20:01:22Z",
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -5019,7 +5019,7 @@
             "last_commit": "2026-08-22T13:45:15Z",
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 252
+            "stars": 253
           }
         },
         {
@@ -6663,7 +6663,7 @@
             "archived": false,
             "id": 976243883,
             "language": "Monkey C",
-            "last_commit": "2026-08-23T06:58:12Z",
+            "last_commit": "2026-08-26T16:44:07Z",
             "owner": "zetxek",
             "repo": "garmin-qr",
             "stars": 6
@@ -6858,7 +6858,7 @@
             "archived": false,
             "id": 625826223,
             "language": "Monkey C",
-            "last_commit": "2026-05-14T19:04:42Z",
+            "last_commit": "2026-08-26T09:00:21Z",
             "owner": "pedrorijo91",
             "repo": "garmin-padel",
             "stars": 6
@@ -7251,7 +7251,7 @@
             "last_commit": "2025-06-24T18:15:01Z",
             "owner": "ch1bo",
             "repo": "garmin-otp-authenticator",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -7323,7 +7323,7 @@
             "archived": false,
             "id": 206563447,
             "language": "Monkey C",
-            "last_commit": "2026-08-25T14:04:25Z",
+            "last_commit": "2026-08-26T06:20:26Z",
             "owner": "Sonicious",
             "repo": "GarminApps",
             "stars": 0
@@ -9591,7 +9591,7 @@
             "archived": false,
             "id": 108281375,
             "language": "Monkey C",
-            "last_commit": "2026-06-10T14:35:47Z",
+            "last_commit": "2026-08-26T15:26:04Z",
             "owner": "urbandroid-team",
             "repo": "Sleep-as-Android-Garmin-Addon",
             "stars": 59
@@ -9750,7 +9750,7 @@
             "last_commit": "2026-08-23T18:11:36Z",
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3274
+            "stars": 3278
           }
         },
         {
@@ -9777,7 +9777,7 @@
             "archived": false,
             "id": 482094046,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:35:41Z",
+            "last_commit": "2026-08-26T19:44:29Z",
             "owner": "markw65",
             "repo": "monkeyc-optimizer",
             "stars": 19
@@ -9792,10 +9792,10 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:03:47Z",
+            "last_commit": "2026-08-26T21:29:44Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 156
+            "stars": 158
           }
         },
         {
@@ -9855,7 +9855,7 @@
             "last_commit": "2026-08-12T15:44:39Z",
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3428
+            "stars": 3433
           }
         },
         {
@@ -9900,7 +9900,7 @@
             "last_commit": "2026-08-08T05:46:48Z",
             "owner": "Nick2bad4u",
             "repo": "FitFileViewer",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -10290,7 +10290,7 @@
             "last_commit": "2024-12-18T23:44:25Z",
             "owner": "cyberang3l",
             "repo": "garmin-linux-development-environment",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -10521,7 +10521,7 @@
             "last_commit": "2026-08-25T06:04:25Z",
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -11009,10 +11009,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:52:04.940Z",
+    "last_updated": "2026-08-27T04:58:04.541Z",
     "original_repository": "bombsimon/awesome-garmin",
     "original_repository_id": 749416501,
-    "original_repository_sha": "f41fe9548607dcd8ff53edf6112abf5dda7fd8d0",
+    "original_repository_sha": "6da2691112fde664d3f339dad42d4c6453cf65ae",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
