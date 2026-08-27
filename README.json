@@ -12,7 +12,7 @@
             "archived": false,
             "id": 190060804,
             "language": "Monkey C",
-            "last_commit": "2026-08-25T10:02:02Z",
+            "last_commit": "2026-08-27T08:31:34Z",
             "owner": "okdar",
             "repo": "smartarcsactive",
             "stars": 11
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 183693321,
             "language": "Monkey C",
-            "last_commit": "2026-08-26T13:32:02Z",
+            "last_commit": "2026-08-27T08:29:36Z",
             "owner": "okdar",
             "repo": "smartarcs",
             "stars": 8
@@ -5019,7 +5019,7 @@
             "last_commit": "2026-08-22T13:45:15Z",
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -5394,7 +5394,7 @@
             "last_commit": "2025-09-10T14:17:21Z",
             "owner": "SylvainGa",
             "repo": "Tesla-Link",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -9762,7 +9762,7 @@
             "archived": false,
             "id": 1184570491,
             "language": "Python",
-            "last_commit": "2026-08-25T17:29:21Z",
+            "last_commit": "2026-08-27T08:22:39Z",
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
             "stars": 17
@@ -11009,10 +11009,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:58:04.541Z",
-    "original_repository": "bombsimon/awesome-garmin",
-    "original_repository_id": 749416501,
-    "original_repository_sha": "6da2691112fde664d3f339dad42d4c6453cf65ae",
+    "last_updated": "2026-08-27T11:43:25.574Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 749416501,
+      "language": "Rust",
+      "last_commit": "2026-08-27T08:10:48Z",
+      "owner": "bombsimon",
+      "repo": "awesome-garmin",
+      "stars": 351
+    },
+    "original_repository_sha": "e13203f35e9af3d4e7bbfe92bffe34a485fb1f51",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
