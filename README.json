@@ -5115,8 +5115,8 @@
             "id": 320400968,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-05-31T12:34:00Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-30T21:56:45Z",
+            "open_issues": 13,
             "owner": "maca88",
             "repo": "SmartBikeLights",
             "stars": 170,
@@ -5329,7 +5329,7 @@
             "open_issues": 13,
             "owner": "gcormier9",
             "repo": "GRun",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7233,7 +7233,7 @@
             "open_issues": 1,
             "owner": "victornottat",
             "repo": "garmin-trimp",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -9987,7 +9987,7 @@
             "open_issues": 0,
             "owner": "ydutertre",
             "repo": "myvario",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10008,7 +10008,7 @@
             "open_issues": 8,
             "owner": "kartoone",
             "repo": "mybiketraffic",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10544,7 +10544,7 @@
             "id": 53660358,
             "language": "Monkey C",
             "license": null,
-            "last_commit": "2025-10-21T14:42:16Z",
+            "last_commit": "2026-08-30T18:51:33Z",
             "open_issues": 3,
             "owner": "chanezgr",
             "repo": "IQwprimebal",
@@ -14599,7 +14599,7 @@
             "open_issues": 25,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3278,
+            "stars": 3280,
             "topics": [
               "database",
               "garmin",
@@ -14623,7 +14623,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T08:04:48Z",
+            "last_commit": "2026-08-30T15:03:11Z",
             "open_issues": 1,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -14683,7 +14683,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:42:33Z",
-            "open_issues": 16,
+            "open_issues": 19,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 163,
@@ -14812,7 +14812,7 @@
             "open_issues": 44,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3434,
+            "stars": 3438,
             "topics": [
               "database",
               "garmin",
@@ -15876,7 +15876,7 @@
             "open_issues": 10,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -15976,7 +15976,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4347,
+            "stars": 4348,
             "topics": [
               "c",
               "cplusplus",
@@ -16630,7 +16630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:35:33.890Z",
+    "last_updated": "2026-08-31T01:33:01.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
