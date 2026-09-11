@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "garmin-abouttime",
+          "description": "2026‑09‑09 ⭐37",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A watch face for Garmin Connect IQ devices",
+            "homepage": "https://samuelmr.github.io/garmin-abouttime/",
+            "id": 172134631,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-09T15:56:51Z",
+            "open_issues": 11,
+            "owner": "samuelmr",
+            "repo": "garmin-abouttime",
+            "stars": 37,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
           "title": "garmin-watchfaces",
           "description": "2026‑09‑06 ⭐3",
           "children": [],
@@ -378,27 +399,6 @@
         },
         {
           "node_type": "item",
-          "title": "garmin-abouttime",
-          "description": "2026‑06‑25 ⭐37",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A watch face for Garmin Connect IQ devices",
-            "homepage": "https://samuelmr.github.io/garmin-abouttime/",
-            "id": 172134631,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-09-09T15:56:51Z",
-            "open_issues": 11,
-            "owner": "samuelmr",
-            "repo": "garmin-abouttime",
-            "stars": 37,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "garmin-connect-iq",
           "description": "2026‑06‑23 ⭐25",
           "children": [],
@@ -483,7 +483,7 @@
             "open_issues": 0,
             "owner": "causeri3",
             "repo": "fine-o-clock",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "garmin",
               "garmin-watch",
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "blotspot",
             "repo": "garmin-watchface-protomolecule",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "connect-iq",
               "expanse",
@@ -1310,7 +1310,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
-        },
+        }
+      ],
+      "title": "Watch faces"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "BanjoGarmin",
@@ -1331,13 +1337,7 @@
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
-        }
-      ],
-      "title": "Watch faces"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "node_type": "item",
           "title": "YoshiGarmin",
@@ -5154,7 +5154,7 @@
         {
           "node_type": "item",
           "title": "walker",
-          "description": "A free data field for Garmin watches to provide stats for walking activities 2026‑06‑17 ⭐68",
+          "description": "A free data field for Garmin watches to provide stats for walking activities 2026‑06‑17 ⭐69",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7504,6 +7504,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "hasscontrol",
+          "description": "Simple garmin widget to control home assistant scenes 2026‑09‑10 ⭐257",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple garmin widget to control home assistant scenes",
+            "homepage": null,
+            "id": 574042600,
+            "language": "Monkey C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-10T17:12:05Z",
+            "open_issues": 14,
+            "owner": "hatl",
+            "repo": "hasscontrol",
+            "stars": 257,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CIQBitcoinWidget",
+          "description": "A Connect IQ widget that gets the current Bitcoin price. 2026‑09‑09 ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Connect IQ widget that gets the current Bitcoin price.",
+            "homepage": "https://apps.garmin.com/en-US/apps/27972956-2771-455e-94a7-627144860841",
+            "id": 108784539,
+            "language": "Monkey C",
+            "license": null,
+            "last_commit": "2026-09-09T21:24:32Z",
+            "open_issues": 2,
+            "owner": "11samype",
+            "repo": "CIQBitcoinWidget",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Barcode-Wallet",
+          "description": "Display various type of barcodes (Simple barcode or 2D barcodes like QR code or Aztec code) 2026‑09‑08 ⭐75",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 302986873,
+            "language": "Monkey C",
+            "license": null,
+            "last_commit": "2026-09-08T12:12:06Z",
+            "open_issues": 17,
+            "owner": "macherel",
+            "repo": "Barcode-Wallet",
+            "stars": 75,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
           "title": "openhab-garmin",
           "description": "A Garmin widget that connects your wearable or cycling computer to openHAB, an open-source home automation platform. 2026‑09‑04 ⭐7",
           "children": [],
@@ -7604,27 +7667,6 @@
         },
         {
           "node_type": "item",
-          "title": "CIQBitcoinWidget",
-          "description": "A Connect IQ widget that gets the current Bitcoin price. 2026‑09‑01 ⭐3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Connect IQ widget that gets the current Bitcoin price.",
-            "homepage": "https://apps.garmin.com/en-US/apps/27972956-2771-455e-94a7-627144860841",
-            "id": 108784539,
-            "language": "Monkey C",
-            "license": null,
-            "last_commit": "2026-09-09T21:24:32Z",
-            "open_issues": 2,
-            "owner": "11samype",
-            "repo": "CIQBitcoinWidget",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "lostandfound",
           "description": "Lost and Found Garmin widget 2026‑08‑31 ⭐3",
           "children": [],
@@ -7688,27 +7730,6 @@
         },
         {
           "node_type": "item",
-          "title": "hasscontrol",
-          "description": "Simple garmin widget to control home assistant scenes 2026‑08‑22 ⭐256",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple garmin widget to control home assistant scenes",
-            "homepage": null,
-            "id": 574042600,
-            "language": "Monkey C",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-09T15:08:59Z",
-            "open_issues": 16,
-            "owner": "hatl",
-            "repo": "hasscontrol",
-            "stars": 256,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "GarminRings",
           "description": "Widget showing activity rings 2026‑08‑21 ⭐1",
           "children": [],
@@ -7766,6 +7787,27 @@
             "owner": "individual-it",
             "repo": "BatteryGuesstimate",
             "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Insta360-Remote-CIQ",
+          "description": "Garmin Connect IQ Remote for Insta360 Cameras 2026‑08‑02 ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Garmin Connect IQ Remote for Insta360 Cameras",
+            "homepage": null,
+            "id": 800938718,
+            "language": "Monkey C",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-02T12:49:06Z",
+            "open_issues": 0,
+            "owner": "arsfabula",
+            "repo": "Insta360-Remote-CIQ",
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7982,27 +8024,6 @@
             "owner": "jurask",
             "repo": "authentificator",
             "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Barcode-Wallet",
-          "description": "Display various type of barcodes (Simple barcode or 2D barcodes like QR code or Aztec code) 2025‑12‑21 ⭐75",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 302986873,
-            "language": "Monkey C",
-            "license": null,
-            "last_commit": "2026-09-08T12:12:06Z",
-            "open_issues": 17,
-            "owner": "macherel",
-            "repo": "Barcode-Wallet",
-            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -9876,8 +9897,54 @@
       "items": [
         {
           "node_type": "item",
+          "title": "mybiketraffic",
+          "description": "ConnectIQ app for processing Garmin Varia radar data and counting vehicles. 2026‑09‑10 ⭐66",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ConnectIQ app for processing Garmin Varia radar data and counting vehicles.",
+            "homepage": "http://www.mybiketraffic.com",
+            "id": 159385011,
+            "language": "Monkey C",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-10T14:00:30Z",
+            "open_issues": 6,
+            "owner": "kartoone",
+            "repo": "mybiketraffic",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-qr",
+          "description": "Garmin IQ application to generate and display QR codes and barcodes 2026‑09‑08 ⭐7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Garmin IQ application to generate and display QR codes and barcodes",
+            "homepage": "https://apps.garmin.com/apps/bbd05875-dc42-49fb-8749-c4a9e8071d49",
+            "id": 976243883,
+            "language": "Monkey C",
+            "license": "MIT",
+            "last_commit": "2026-09-08T19:05:13Z",
+            "open_issues": 5,
+            "owner": "zetxek",
+            "repo": "garmin-qr",
+            "stars": 7,
+            "topics": [
+              "garmin",
+              "garmin-sdk",
+              "qrcode"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
           "title": "GarminHomeAssistant",
-          "description": "Garmin application to provide a dashboard to control your Home Assistant 2026‑09‑06 ⭐360",
+          "description": "Garmin application to provide a dashboard to control your Home Assistant 2026‑09‑06 ⭐362",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9927,31 +9994,6 @@
               "meditation-app",
               "meditation-timer",
               "wellness"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "garmin-qr",
-          "description": "Garmin IQ application to generate and display QR codes and barcodes 2026‑09‑05 ⭐7",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Garmin IQ application to generate and display QR codes and barcodes",
-            "homepage": "https://apps.garmin.com/apps/bbd05875-dc42-49fb-8749-c4a9e8071d49",
-            "id": 976243883,
-            "language": "Monkey C",
-            "license": "MIT",
-            "last_commit": "2026-09-08T19:05:13Z",
-            "open_issues": 5,
-            "owner": "zetxek",
-            "repo": "garmin-qr",
-            "stars": 7,
-            "topics": [
-              "garmin",
-              "garmin-sdk",
-              "qrcode"
             ]
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10130,27 +10172,6 @@
             "owner": "OpenSeizureDetector",
             "repo": "Garmin_SD",
             "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mybiketraffic",
-          "description": "ConnectIQ app for processing Garmin Varia radar data and counting vehicles. 2026‑08‑03 ⭐66",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ConnectIQ app for processing Garmin Varia radar data and counting vehicles.",
-            "homepage": "http://www.mybiketraffic.com",
-            "id": 159385011,
-            "language": "Monkey C",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-03T18:45:55Z",
-            "open_issues": 6,
-            "owner": "kartoone",
-            "repo": "mybiketraffic",
-            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -14654,114 +14675,6 @@
         },
         {
           "node_type": "item",
-          "title": "Garmin_Local_Archive",
-          "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server.. 2026‑09‑06 ⭐19",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server..",
-            "homepage": "https://github.com/Wewoc/GLA-NeedfulThings",
-            "id": 1184570491,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-08T15:59:55Z",
-            "open_issues": 5,
-            "owner": "Wewoc",
-            "repo": "Garmin_Local_Archive",
-            "stars": 20,
-            "topics": [
-              "backup",
-              "dashboard",
-              "data-analysis",
-              "data-export",
-              "garmin",
-              "garmin-connect",
-              "garmin-data",
-              "health-data",
-              "health-data-analysis",
-              "health-data-visualization",
-              "local-ai",
-              "mcp-client",
-              "privacy",
-              "privacy-first",
-              "python",
-              "self-hosted"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ble-scale-sync",
-          "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows. 2026‑09‑06 ⭐167",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.",
-            "homepage": "https://blescalesync.dev",
-            "id": 1133724679,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-09T18:15:47Z",
-            "open_issues": 8,
-            "owner": "KristianP26",
-            "repo": "ble-scale-sync",
-            "stars": 170,
-            "topics": [
-              "ble",
-              "body-composition",
-              "csv",
-              "garmin",
-              "garmin-connect",
-              "health-data",
-              "home-assistant",
-              "influxdb",
-              "mqtt",
-              "nodejs",
-              "ntfy",
-              "quantified-self",
-              "raspberry-pi",
-              "renpho",
-              "self-hosted",
-              "smart-scale",
-              "strava",
-              "typescript",
-              "webhook",
-              "xiaomi"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GarminDB",
-          "description": "Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks. 2026‑09‑05 ⭐3291",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.",
-            "homepage": null,
-            "id": 114247830,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2026-09-08T15:42:02Z",
-            "open_issues": 24,
-            "owner": "tcgoetz",
-            "repo": "GarminDB",
-            "stars": 3298,
-            "topics": [
-              "database",
-              "garmin",
-              "health",
-              "jupyter-notebooks",
-              "python",
-              "sqlite"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "monkey-c-rs",
           "description": "🐒 Monkey C linter, formatter and coverage together with your best toolbox to work with Monkey C code 2026‑09‑03 ⭐4",
           "children": [],
@@ -14783,69 +14696,6 @@
               "linter",
               "monkey-c",
               "parser"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FitFileViewer",
-          "description": "Fit File Viewer - Cross-Platform application to analyze Fit files. Builds available for Windows, Mac, and Linux in a variety of formats. 2026‑09‑03 ⭐62",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fit File Viewer - Cross-Platform application to analyze Fit files. Builds available for Windows, Mac, and Linux in a variety of formats.",
-            "homepage": "https://nick2bad4u.github.io/FitFileViewer/",
-            "id": 968299647,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-09T04:16:11Z",
-            "open_issues": 1,
-            "owner": "Nick2bad4u",
-            "repo": "FitFileViewer",
-            "stars": 63,
-            "topics": [
-              "fit",
-              "fit-file",
-              "fit-file-viewer",
-              "garmin",
-              "strava"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "garmin-health-data",
-          "description": "A simple Python CLI to download Garmin Connect data as local files and load them into a SQLite database for analysis 2026‑09‑03 ⭐114",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple Python CLI to download Garmin Connect data as local files and load them into a SQLite database for analysis",
-            "homepage": "https://pypi.org/project/garmin-health-data/",
-            "id": 1076284670,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-07T21:13:24Z",
-            "open_issues": 0,
-            "owner": "diegoscarabelli",
-            "repo": "garmin-health-data",
-            "stars": 116,
-            "topics": [
-              "ai-agents",
-              "cli",
-              "etl",
-              "fitdecode",
-              "fitness",
-              "garmin",
-              "garmin-connect",
-              "health-data",
-              "heart-rate",
-              "python",
-              "quantified-self",
-              "sleep-tracking",
-              "sqlite",
-              "wellness"
             ]
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -14898,130 +14748,6 @@
               "garmin",
               "github-action",
               "monkey-c"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RouteTimer",
-          "description": "Predicts cycling route times from your own power history and a physics simulation over the elevation profile — self-hosted, .NET/Blazor/PostgreSQL. 2026‑08‑31",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Predicts cycling route times from your own power history and a physics simulation over the elevation profile — self-hosted, .NET/Blazor/PostgreSQL.",
-            "homepage": null,
-            "id": 1344806204,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-08-31T15:53:59Z",
-            "open_issues": 3,
-            "owner": "jamiemitchellconsultants",
-            "repo": "RouteTimer",
-            "stars": 0,
-            "topics": [
-              "blazor",
-              "cycling",
-              "dotnet",
-              "garmin",
-              "postgresql",
-              "route-planning"
-            ]
-          },
-          "first_seen": "2026-09-01T02:00:51.094Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MapToGarmin",
-          "description": "Convert a Google Maps route to a Garmin GPX course, entirely client-side 2026‑08‑24",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Convert a Google Maps route to a Garmin GPX course, entirely client-side",
-            "homepage": null,
-            "id": 1344592778,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-08-24T07:29:43Z",
-            "open_issues": 0,
-            "owner": "jamiemitchellconsultants",
-            "repo": "MapToGarmin",
-            "stars": 0,
-            "topics": [
-              "blazor",
-              "dotnet",
-              "garmin",
-              "google-maps",
-              "gpx",
-              "webassembly"
-            ]
-          },
-          "first_seen": "2026-09-01T02:00:51.094Z"
-        },
-        {
-          "node_type": "item",
-          "title": "garmin-grafana",
-          "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana 2026‑08‑12 ⭐3452",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana",
-            "homepage": null,
-            "id": 966098572,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-08-12T15:44:39Z",
-            "open_issues": 44,
-            "owner": "arpanghosh8453",
-            "repo": "garmin-grafana",
-            "stars": 3455,
-            "topics": [
-              "database",
-              "garmin",
-              "garmin-api",
-              "garmin-connect",
-              "garmin-data",
-              "garmin-smartwatches",
-              "grafana",
-              "grafana-dashboard",
-              "grafana-influxdb",
-              "influxdb",
-              "python",
-              "python3"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fit",
-          "description": "A FIT SDK for decoding and encoding Garmin FIT files in Go supporting FIT Protocol V2. 2026‑08‑11 ⭐178",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A FIT SDK for decoding and encoding Garmin FIT files in Go supporting FIT Protocol V2.",
-            "homepage": null,
-            "id": 692113327,
-            "language": "Go",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-08-11T03:07:46Z",
-            "open_issues": 4,
-            "owner": "muktihari",
-            "repo": "fit",
-            "stars": 179,
-            "topics": [
-              "binary",
-              "decoding",
-              "encoding",
-              "fit",
-              "fit-sdk",
-              "fitness",
-              "garmin",
-              "garmin-fit",
-              "go",
-              "golang",
-              "protocol",
-              "sdk"
             ]
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -15160,36 +14886,8 @@
         },
         {
           "node_type": "item",
-          "title": "garmin-connect-mcp",
-          "description": "Garmin Connect MCP 2026‑07‑12 ⭐40",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Garmin Connect MCP ",
-            "homepage": null,
-            "id": 1195752920,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-12T03:05:32Z",
-            "open_issues": 0,
-            "owner": "etweisberg",
-            "repo": "garmin-connect-mcp",
-            "stars": 42,
-            "topics": [
-              "garmin",
-              "garmin-connect",
-              "garmin-watch",
-              "mcp",
-              "mcp-server",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "connectiq-sdk-manager",
-          "description": "Garmin's Connect IQ SDK Manager as an AppImage 2026‑07‑08 ⭐43",
+          "description": "Garmin's Connect IQ SDK Manager as an AppImage 2026‑07‑08 ⭐44",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15202,7 +14900,7 @@
             "open_issues": 1,
             "owner": "pcolby",
             "repo": "connectiq-sdk-manager",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "appimage",
               "connect-iq",
@@ -15236,97 +14934,6 @@
         },
         {
           "node_type": "item",
-          "title": "export2garmin",
-          "description": "Export Mi - Xiaomi scale & Omron data to Garmin Connect 2026‑06‑23 ⭐269",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Export Mi | Xiaomi scale & Omron data to Garmin Connect",
-            "homepage": null,
-            "id": 289458092,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-06-23T10:28:54Z",
-            "open_issues": 0,
-            "owner": "RobertWojtowicz",
-            "repo": "export2garmin",
-            "stars": 269,
-            "topics": [
-              "blood-pressure",
-              "bluetooth",
-              "esp32",
-              "fitness",
-              "garmin",
-              "garmin-api",
-              "garmin-connect",
-              "iot",
-              "mi",
-              "miscale",
-              "miscale2garmin",
-              "mqtt",
-              "omron",
-              "raspberry",
-              "s400",
-              "scale",
-              "wifi",
-              "xiaomi"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fit",
-          "description": "Minimal OCaml library to parse Garmin FIT files 2026‑06‑19 ⭐11",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Minimal OCaml library to parse Garmin FIT files",
-            "homepage": null,
-            "id": 307176434,
-            "language": "OCaml",
-            "license": "NOASSERTION",
-            "last_commit": "2026-06-19T12:44:17Z",
-            "open_issues": 0,
-            "owner": "lindig",
-            "repo": "fit",
-            "stars": 11,
-            "topics": [
-              "fit",
-              "garmin",
-              "ocaml"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "garth",
-          "description": "[DEPRECATED] Garmin SSO auth + Connect Python client 2026‑06‑09 ⭐814",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[DEPRECATED] Garmin SSO auth + Connect Python client",
-            "homepage": null,
-            "id": 662655573,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-09T02:03:11Z",
-            "open_issues": 13,
-            "owner": "matin",
-            "repo": "garth",
-            "stars": 814,
-            "topics": [
-              "garmin",
-              "garmin-api",
-              "garmin-connect",
-              "garmin-sdk"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "garmin-dev-tools",
           "description": "Tools for Garmin CIQ developers 2026‑05‑12 ⭐24",
           "children": [],
@@ -15348,57 +14955,6 @@
         },
         {
           "node_type": "item",
-          "title": "share-your-garmin-workout",
-          "description": "Chrome extension to share your Garmin Connect workout with your friends 2026‑05‑04 ⭐26",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Chrome extension to share your Garmin Connect workout with your friends",
-            "homepage": "https://chromewebstore.google.com/detail/share-your-garmin-connect/kdpolhnlnkengkmfncjdbfdehglepmff",
-            "id": 238981056,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-04T12:40:04Z",
-            "open_issues": 5,
-            "owner": "fulippo",
-            "repo": "share-your-garmin-workout",
-            "stars": 27,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fitparse-rs",
-          "description": "Rust library to parse FIT formatted files 2026‑05‑01 ⭐73",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Rust library to parse FIT formatted files",
-            "homepage": null,
-            "id": 248106669,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-05-01T04:07:13Z",
-            "open_issues": 11,
-            "owner": "stadelmanma",
-            "repo": "fitparse-rs",
-            "stars": 73,
-            "topics": [
-              "ant",
-              "crates",
-              "fit",
-              "fit-sdk",
-              "fitparse",
-              "garmin",
-              "nom",
-              "serde"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "GarminSportsDev",
           "description": "App for CIQ developers to examine SPORT and SUB_SPORT values 2026‑03‑15 ⭐2",
           "children": [],
@@ -15415,75 +14971,6 @@
             "repo": "GarminSportsDev",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fit-rust",
-          "description": "fit-rust is a Rust library designed for reading, writing, and merging FIT protocol files. 2026‑01‑15 ⭐13",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "fit-rust is a Rust library designed for reading, writing, and merging FIT protocol files.",
-            "homepage": null,
-            "id": 716998574,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-01-15T03:53:24Z",
-            "open_issues": 2,
-            "owner": "zzyandzzy",
-            "repo": "fit-rust",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openivity.github.io",
-          "description": "An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly) 2026‑01‑05 ⭐43",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly)",
-            "homepage": "https://openivity.github.io/",
-            "id": 695205704,
-            "language": "Vue",
-            "license": "GPL-3.0",
-            "last_commit": "2026-01-05T10:21:18Z",
-            "open_issues": 3,
-            "owner": "openivity",
-            "repo": "openivity.github.io",
-            "stars": 43,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "flowfit",
-          "description": "Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file that can be imported by other tools. 2025‑12‑13 ⭐4",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file that can be imported by other tools.",
-            "homepage": "https://hacdias.github.io/flowfit/",
-            "id": 704036741,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-12-13T07:42:26Z",
-            "open_issues": 0,
-            "owner": "hacdias",
-            "repo": "flowfit",
-            "stars": 4,
-            "topics": [
-              "bosch",
-              "ebike-flow",
-              "fit",
-              "tool",
-              "website"
-            ]
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
         },
@@ -15872,31 +15359,6 @@
         },
         {
           "node_type": "item",
-          "title": "garminfit",
-          "description": "🏃 Rust library for working with ANT/Garmin .FIT files 2018‑11‑28 ⭐10",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🏃 Rust library for working with ANT/Garmin .FIT files",
-            "homepage": "https://crates.io/crates/garminfit",
-            "id": 151741959,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2018-11-28T18:07:09Z",
-            "open_issues": 0,
-            "owner": "jmackie",
-            "repo": "garminfit",
-            "stars": 10,
-            "topics": [
-              "garmin",
-              "rust",
-              "serialization"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "connectiq-monkeyc",
           "description": "Various tools for Garmin Connect IQ 2015‑03‑28 ⭐15",
           "children": [],
@@ -15922,52 +15384,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "Inreach-Mapshare",
-          "description": "Display your live inReach MapShare data on your WordPress Site 2026‑09‑05 ⭐12",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Display Your Live inReach MapShare Data on Your WordPress Site",
-            "homepage": null,
-            "id": 491233108,
-            "language": "PHP",
-            "license": "GPL-2.0",
-            "last_commit": "2026-09-05T08:14:25Z",
-            "open_issues": 0,
-            "owner": "OpenGIS",
-            "repo": "inreach-mapshare",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "home-assistant-garmin_connect",
-          "description": "This Garmin Connect integration allows you to expose and upload data from and to Garmin Connect to Home Assistant. 2026‑09‑01 ⭐557",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This Garmin Connect integration allows you to expose and upload data from and to Garmin Connect to Home Assistant.",
-            "homepage": null,
-            "id": 383732864,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-08T06:04:51Z",
-            "open_issues": 14,
-            "owner": "cyberjunky",
-            "repo": "home-assistant-garmin_connect",
-            "stars": 556,
-            "topics": [
-              "garmin-connect",
-              "home-assistant",
-              "home-assistant-component"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
         {
           "node_type": "item",
           "title": "client",
@@ -15998,55 +15414,8 @@
         },
         {
           "node_type": "item",
-          "title": "Insta360-Remote-CIQ",
-          "description": "Garmin Connect IQ Remote for Insta360 Cameras 2026‑08‑02 ⭐13",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Garmin Connect IQ Remote for Insta360 Cameras",
-            "homepage": null,
-            "id": 800938718,
-            "language": "Monkey C",
-            "license": "MPL-2.0",
-            "last_commit": "2026-08-02T12:49:06Z",
-            "open_issues": 0,
-            "owner": "arsfabula",
-            "repo": "Insta360-Remote-CIQ",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "garmin-workouts",
-          "description": "Command line tool for managing Garmin workouts. 2026‑06‑25 ⭐125",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Command line tool for managing Garmin workouts.",
-            "homepage": null,
-            "id": 237306408,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-25T07:22:31Z",
-            "open_issues": 9,
-            "owner": "mkuthan",
-            "repo": "garmin-workouts",
-            "stars": 125,
-            "topics": [
-              "cycling",
-              "garmin",
-              "python",
-              "workout"
-            ]
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
           "title": "open-location-code",
-          "description": "Open Location Code is a library to generate short codes, called \"plus codes\", that can be used as digital addresses where street addresses don't exist. 2026‑03‑30 ⭐4349",
+          "description": "Open Location Code is a library to generate short codes, called \"plus codes\", that can be used as digital addresses where street addresses don't exist. 2026‑03‑30 ⭐4354",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16059,7 +15428,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4352,
+            "stars": 4354,
             "topics": [
               "c",
               "cplusplus",
@@ -16200,7 +15569,7 @@
         {
           "node_type": "item",
           "title": "connectiq-apps",
-          "description": "A collection of Connect IQ apps. 2025‑01‑08 ⭐586",
+          "description": "A collection of Connect IQ apps. 2025‑01‑08 ⭐587",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16213,7 +15582,7 @@
             "open_issues": 14,
             "owner": "garmin",
             "repo": "connectiq-apps",
-            "stars": 586,
+            "stars": 587,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16341,7 +15710,7 @@
         {
           "node_type": "item",
           "title": "connectiq-samples",
-          "description": "Connect IQ sample apps, libraries and code snippets 2024‑03‑12 ⭐81",
+          "description": "Connect IQ sample apps, libraries and code snippets 2024‑03‑12 ⭐82",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16379,27 +15748,6 @@
             "owner": "Likenttt",
             "repo": "garmin-games",
             "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:03:02.136Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Garmin-Connect-Workout-and-Schedule-creator",
-          "description": "Create Garmin Connect workouts with a \"turbo language\" and schedule them. 2023‑06‑22 ⭐31",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create Garmin Connect workouts with a \"turbo language\" and schedule them.",
-            "homepage": null,
-            "id": 618786108,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2023-06-22T14:52:32Z",
-            "open_issues": 0,
-            "owner": "sydspost",
-            "repo": "Garmin-Connect-Workout-and-Schedule-creator",
-            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16710,10 +16058,752 @@
         }
       ],
       "title": "Miscellaneous"
+    },
+    {
+      "description": "Tools that work with data from Garmin and Garmin devices, such as syncing, exporting, analyzing, or visualizing activity and health data, parsing FIT files, or MCP servers for Garmin Connect. These are not related to Monkey C or Connect IQ app development.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GarminDB",
+          "description": "Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks. 2026‑09‑10 ⭐3299",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.",
+            "homepage": null,
+            "id": 114247830,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-09-10T17:40:09Z",
+            "open_issues": 24,
+            "owner": "tcgoetz",
+            "repo": "GarminDB",
+            "stars": 3299,
+            "topics": [
+              "database",
+              "garmin",
+              "health",
+              "jupyter-notebooks",
+              "python",
+              "sqlite"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ble-scale-sync",
+          "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows. 2026‑09‑09 ⭐170",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.",
+            "homepage": "https://blescalesync.dev",
+            "id": 1133724679,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-09T18:15:47Z",
+            "open_issues": 10,
+            "owner": "KristianP26",
+            "repo": "ble-scale-sync",
+            "stars": 170,
+            "topics": [
+              "ble",
+              "body-composition",
+              "csv",
+              "garmin",
+              "garmin-connect",
+              "health-data",
+              "home-assistant",
+              "influxdb",
+              "mqtt",
+              "nodejs",
+              "ntfy",
+              "quantified-self",
+              "raspberry-pi",
+              "renpho",
+              "self-hosted",
+              "smart-scale",
+              "strava",
+              "typescript",
+              "webhook",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FitFileViewer",
+          "description": "Fit File Viewer - Cross-Platform application to analyze Fit files. Builds available for Windows, Mac, and Linux in a variety of formats. 2026‑09‑09 ⭐63",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fit File Viewer - Cross-Platform application to analyze Fit files. Builds available for Windows, Mac, and Linux in a variety of formats.",
+            "homepage": "https://nick2bad4u.github.io/FitFileViewer/",
+            "id": 968299647,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-09T04:16:11Z",
+            "open_issues": 1,
+            "owner": "Nick2bad4u",
+            "repo": "FitFileViewer",
+            "stars": 63,
+            "topics": [
+              "fit",
+              "fit-file",
+              "fit-file-viewer",
+              "garmin",
+              "strava"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Garmin_Local_Archive",
+          "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server.. 2026‑09‑08 ⭐19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server..",
+            "homepage": "https://github.com/Wewoc/GLA-NeedfulThings",
+            "id": 1184570491,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-08T15:59:55Z",
+            "open_issues": 5,
+            "owner": "Wewoc",
+            "repo": "Garmin_Local_Archive",
+            "stars": 19,
+            "topics": [
+              "backup",
+              "dashboard",
+              "data-analysis",
+              "data-export",
+              "garmin",
+              "garmin-connect",
+              "garmin-data",
+              "health-data",
+              "health-data-analysis",
+              "health-data-visualization",
+              "local-ai",
+              "mcp-client",
+              "privacy",
+              "privacy-first",
+              "python",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "home-assistant-garmin_connect",
+          "description": "This Garmin Connect integration allows you to expose and upload data from and to Garmin Connect to Home Assistant. 2026‑09‑08 ⭐556",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This Garmin Connect integration allows you to expose and upload data from and to Garmin Connect to Home Assistant.",
+            "homepage": null,
+            "id": 383732864,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-08T06:04:51Z",
+            "open_issues": 14,
+            "owner": "cyberjunky",
+            "repo": "home-assistant-garmin_connect",
+            "stars": 556,
+            "topics": [
+              "garmin-connect",
+              "home-assistant",
+              "home-assistant-component"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-health-data",
+          "description": "A simple Python CLI to download Garmin Connect data as local files and load them into a SQLite database for analysis 2026‑09‑07 ⭐116",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple Python CLI to download Garmin Connect data as local files and load them into a SQLite database for analysis",
+            "homepage": "https://pypi.org/project/garmin-health-data/",
+            "id": 1076284670,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-07T21:13:24Z",
+            "open_issues": 1,
+            "owner": "diegoscarabelli",
+            "repo": "garmin-health-data",
+            "stars": 116,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "etl",
+              "fitdecode",
+              "fitness",
+              "garmin",
+              "garmin-connect",
+              "health-data",
+              "heart-rate",
+              "python",
+              "quantified-self",
+              "sleep-tracking",
+              "sqlite",
+              "wellness"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Inreach-Mapshare",
+          "description": "Display your live inReach MapShare data on your WordPress Site 2026‑09‑05 ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Display Your Live inReach MapShare Data on Your WordPress Site",
+            "homepage": null,
+            "id": 491233108,
+            "language": "PHP",
+            "license": "GPL-2.0",
+            "last_commit": "2026-09-05T08:14:25Z",
+            "open_issues": 0,
+            "owner": "OpenGIS",
+            "repo": "inreach-mapshare",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RouteTimer",
+          "description": "Predicts cycling route times from your own power history and elevation profile 2026‑08‑31",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Predicts cycling route times from your own power history and a physics simulation over the elevation profile — self-hosted, .NET/Blazor/PostgreSQL.",
+            "homepage": null,
+            "id": 1344806204,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-08-31T15:53:59Z",
+            "open_issues": 3,
+            "owner": "jamiemitchellconsultants",
+            "repo": "RouteTimer",
+            "stars": 0,
+            "topics": [
+              "blazor",
+              "cycling",
+              "dotnet",
+              "garmin",
+              "postgresql",
+              "route-planning"
+            ]
+          },
+          "first_seen": "2026-09-01T02:00:51.094Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MapToGarmin",
+          "description": "Convert a Google Maps route to a Garmin GPX course, entirely client-side 2026‑08‑24",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert a Google Maps route to a Garmin GPX course, entirely client-side",
+            "homepage": null,
+            "id": 1344592778,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-08-24T07:29:43Z",
+            "open_issues": 0,
+            "owner": "jamiemitchellconsultants",
+            "repo": "MapToGarmin",
+            "stars": 0,
+            "topics": [
+              "blazor",
+              "dotnet",
+              "garmin",
+              "google-maps",
+              "gpx",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-09-01T02:00:51.094Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-givemydata",
+          "description": "It's YOUR data. Take it back. Get your Garmin Connect data into a local SQLite database and AI ready (MCP server) 2026‑08‑22 ⭐149",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "It's YOUR data. Take it back. Get your Garmin Connect data into a local SQLite database and AI ready (MCP server)",
+            "homepage": null,
+            "id": 1195555171,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-22T18:43:18Z",
+            "open_issues": 3,
+            "owner": "nrvim",
+            "repo": "garmin-givemydata",
+            "stars": 149,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T01:23:58.354Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-grafana",
+          "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana 2026‑08‑12 ⭐3457",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana",
+            "homepage": null,
+            "id": 966098572,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-12T15:44:39Z",
+            "open_issues": 44,
+            "owner": "arpanghosh8453",
+            "repo": "garmin-grafana",
+            "stars": 3457,
+            "topics": [
+              "database",
+              "garmin",
+              "garmin-api",
+              "garmin-connect",
+              "garmin-data",
+              "garmin-smartwatches",
+              "grafana",
+              "grafana-dashboard",
+              "grafana-influxdb",
+              "influxdb",
+              "python",
+              "python3"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fit",
+          "description": "A FIT SDK for decoding and encoding Garmin FIT files in Go supporting FIT Protocol V2. 2026‑08‑11 ⭐179",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A FIT SDK for decoding and encoding Garmin FIT files in Go supporting FIT Protocol V2.",
+            "homepage": null,
+            "id": 692113327,
+            "language": "Go",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-11T03:07:46Z",
+            "open_issues": 4,
+            "owner": "muktihari",
+            "repo": "fit",
+            "stars": 179,
+            "topics": [
+              "binary",
+              "decoding",
+              "encoding",
+              "fit",
+              "fit-sdk",
+              "fitness",
+              "garmin",
+              "garmin-fit",
+              "go",
+              "golang",
+              "protocol",
+              "sdk"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-connect-mcp",
+          "description": "MCP server for Garmin Connect data 2026‑07‑12 ⭐42",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Garmin Connect MCP ",
+            "homepage": null,
+            "id": 1195752920,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-12T03:05:32Z",
+            "open_issues": 0,
+            "owner": "etweisberg",
+            "repo": "garmin-connect-mcp",
+            "stars": 42,
+            "topics": [
+              "garmin",
+              "garmin-connect",
+              "garmin-watch",
+              "mcp",
+              "mcp-server",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-workouts",
+          "description": "Command line tool for managing Garmin workouts. 2026‑06‑25 ⭐125",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Command line tool for managing Garmin workouts.",
+            "homepage": null,
+            "id": 237306408,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-25T07:22:31Z",
+            "open_issues": 9,
+            "owner": "mkuthan",
+            "repo": "garmin-workouts",
+            "stars": 125,
+            "topics": [
+              "cycling",
+              "garmin",
+              "python",
+              "workout"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "export2garmin",
+          "description": "Export Mi - Xiaomi scale & Omron data to Garmin Connect 2026‑06‑23 ⭐269",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Export Mi | Xiaomi scale & Omron data to Garmin Connect",
+            "homepage": null,
+            "id": 289458092,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-06-23T10:28:54Z",
+            "open_issues": 0,
+            "owner": "RobertWojtowicz",
+            "repo": "export2garmin",
+            "stars": 269,
+            "topics": [
+              "blood-pressure",
+              "bluetooth",
+              "esp32",
+              "fitness",
+              "garmin",
+              "garmin-api",
+              "garmin-connect",
+              "iot",
+              "mi",
+              "miscale",
+              "miscale2garmin",
+              "mqtt",
+              "omron",
+              "raspberry",
+              "s400",
+              "scale",
+              "wifi",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fit",
+          "description": "Minimal OCaml library to parse Garmin FIT files 2026‑06‑19 ⭐11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimal OCaml library to parse Garmin FIT files",
+            "homepage": null,
+            "id": 307176434,
+            "language": "OCaml",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-19T12:44:17Z",
+            "open_issues": 0,
+            "owner": "lindig",
+            "repo": "fit",
+            "stars": 11,
+            "topics": [
+              "fit",
+              "garmin",
+              "ocaml"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garth",
+          "description": "[DEPRECATED] Garmin SSO auth + Connect Python client 2026‑06‑09 ⭐814",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[DEPRECATED] Garmin SSO auth + Connect Python client",
+            "homepage": null,
+            "id": 662655573,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-09T02:03:11Z",
+            "open_issues": 13,
+            "owner": "matin",
+            "repo": "garth",
+            "stars": 814,
+            "topics": [
+              "garmin",
+              "garmin-api",
+              "garmin-connect",
+              "garmin-sdk"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garminexport",
+          "description": "[DEPRECATED] Garmin Connect activity exporter and backup tool 2026‑05‑19 ⭐562",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[DEPRECATED] Garmin Connect activity exporter and backup tool",
+            "homepage": null,
+            "id": 26359428,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-19T21:57:03Z",
+            "open_issues": 11,
+            "owner": "petergardfjall",
+            "repo": "garminexport",
+            "stars": 562,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T01:23:58.354Z"
+        },
+        {
+          "node_type": "item",
+          "title": "share-your-garmin-workout",
+          "description": "Chrome extension to share your Garmin Connect workout with your friends 2026‑05‑04 ⭐27",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Chrome extension to share your Garmin Connect workout with your friends",
+            "homepage": "https://chromewebstore.google.com/detail/share-your-garmin-connect/kdpolhnlnkengkmfncjdbfdehglepmff",
+            "id": 238981056,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-05-04T12:40:04Z",
+            "open_issues": 5,
+            "owner": "fulippo",
+            "repo": "share-your-garmin-workout",
+            "stars": 27,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fitparse-rs",
+          "description": "Rust library to parse FIT formatted files 2026‑05‑01 ⭐73",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rust library to parse FIT formatted files",
+            "homepage": null,
+            "id": 248106669,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-05-01T04:07:13Z",
+            "open_issues": 11,
+            "owner": "stadelmanma",
+            "repo": "fitparse-rs",
+            "stars": 73,
+            "topics": [
+              "ant",
+              "crates",
+              "fit",
+              "fit-sdk",
+              "fitparse",
+              "garmin",
+              "nom",
+              "serde"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fit-rust",
+          "description": "fit-rust is a Rust library designed for reading, writing, and merging FIT protocol files. 2026‑01‑15 ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "fit-rust is a Rust library designed for reading, writing, and merging FIT protocol files.",
+            "homepage": null,
+            "id": 716998574,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-01-15T03:53:24Z",
+            "open_issues": 2,
+            "owner": "zzyandzzy",
+            "repo": "fit-rust",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "openivity.github.io",
+          "description": "An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly) 2026‑01‑05 ⭐43",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly)",
+            "homepage": "https://openivity.github.io/",
+            "id": 695205704,
+            "language": "Vue",
+            "license": "GPL-3.0",
+            "last_commit": "2026-01-05T10:21:18Z",
+            "open_issues": 3,
+            "owner": "openivity",
+            "repo": "openivity.github.io",
+            "stars": 43,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flowfit",
+          "description": "Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file that can be imported by other tools. 2025‑12‑13 ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file that can be imported by other tools.",
+            "homepage": "https://hacdias.github.io/flowfit/",
+            "id": 704036741,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-12-13T07:42:26Z",
+            "open_issues": 0,
+            "owner": "hacdias",
+            "repo": "flowfit",
+            "stars": 4,
+            "topics": [
+              "bosch",
+              "ebike-flow",
+              "fit",
+              "tool",
+              "website"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmy",
+          "description": "Python library to interact with Garmin Connect API 2025‑07‑06 ⭐66",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python library to interact with Garmin Connect API",
+            "homepage": "https://bes-dev.github.io/garmy/",
+            "id": 994269041,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-07-06T17:00:29Z",
+            "open_issues": 13,
+            "owner": "bes-dev",
+            "repo": "garmy",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T01:23:58.354Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garmin-fetch",
+          "description": "GUI desktop application built to streamline the process of fetching activity data from Garmin Connect. 2023‑09‑08 ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GUI desktop application built to streamline the process of fetching activity data from Garmin Connect.",
+            "homepage": null,
+            "id": 677761578,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-09-08T07:51:07Z",
+            "open_issues": 0,
+            "owner": "nicohlr",
+            "repo": "garmin-fetch",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T01:23:58.354Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Garmin-Connect-Workout-and-Schedule-creator",
+          "description": "Create Garmin Connect workouts with a \"turbo language\" and schedule them. 2023‑06‑22 ⭐31",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create Garmin Connect workouts with a \"turbo language\" and schedule them.",
+            "homepage": null,
+            "id": 618786108,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2023-06-22T14:52:32Z",
+            "open_issues": 0,
+            "owner": "sydspost",
+            "repo": "Garmin-Connect-Workout-and-Schedule-creator",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        },
+        {
+          "node_type": "item",
+          "title": "garminfit",
+          "description": "🏃 Rust library for working with ANT/Garmin .FIT files 2018‑11‑28 ⭐10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏃 Rust library for working with ANT/Garmin .FIT files",
+            "homepage": "https://crates.io/crates/garminfit",
+            "id": 151741959,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2018-11-28T18:07:09Z",
+            "open_issues": 0,
+            "owner": "jmackie",
+            "repo": "garminfit",
+            "stars": 10,
+            "topics": [
+              "garmin",
+              "rust",
+              "serialization"
+            ]
+          },
+          "first_seen": "2026-08-28T07:03:02.136Z"
+        }
+      ],
+      "title": "Garmin Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:23:19.724Z",
+    "last_updated": "2026-09-11T01:23:58.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -16721,8 +16811,8 @@
       "id": 749416501,
       "language": "Rust",
       "license": "WTFPL",
-      "last_commit": "2026-09-07T02:39:22Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-10T21:21:04Z",
+      "open_issues": 2,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
       "stars": 356,
@@ -16735,7 +16825,7 @@
         "monkey-c"
       ]
     },
-    "original_repository_sha": "34420422e8d9b2393bbe34e09028e2b1764f5578",
+    "original_repository_sha": "cb52a3d41235aa771f78d122bf24f4ea675a270c",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
