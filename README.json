@@ -10033,7 +10033,7 @@
             "id": 712437962,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-06T16:50:21Z",
+            "last_commit": "2026-09-15T19:44:23Z",
             "open_issues": 4,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
@@ -15457,7 +15457,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4356,
+            "stars": 4358,
             "topics": [
               "c",
               "cplusplus",
@@ -15658,7 +15658,7 @@
             "open_issues": 1,
             "owner": "AndrewKhassapov",
             "repo": "connect-iq",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "101",
               "connect-iq",
@@ -16107,7 +16107,7 @@
             "open_issues": 4,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 149,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16128,7 +16128,7 @@
             "open_issues": 24,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3302,
+            "stars": 3304,
             "topics": [
               "database",
               "garmin",
@@ -16147,7 +16147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server..",
+            "description": "Secure, local-first archive for Garmin Connect health data. Preserve your data before Garmin's historical data decay. Private & offline. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards ,local AI and MCP-Server.",
             "homepage": "https://github.com/Wewoc/GLA-NeedfulThings",
             "id": 1184570491,
             "language": "Python",
@@ -16194,7 +16194,7 @@
             "open_issues": 2,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3004,
+            "stars": 3007,
             "topics": [
               "fitness",
               "garmin",
@@ -16217,11 +16217,11 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:32:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-15T06:03:45Z",
+            "open_issues": 6,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 561,
+            "stars": 564,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16299,8 +16299,8 @@
             "id": 692113327,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T03:10:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T03:17:20Z",
+            "open_issues": 4,
             "owner": "muktihari",
             "repo": "fit",
             "stars": 179,
@@ -16334,7 +16334,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T12:54:31Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 172,
@@ -16480,10 +16480,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T15:44:39Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3458,
+            "stars": 3460,
             "topics": [
               "database",
               "garmin",
@@ -16859,7 +16859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:49:46.094Z",
+    "last_updated": "2026-09-16T01:35:16.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
