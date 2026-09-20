@@ -57,7 +57,7 @@
             "id": 338928737,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-05T23:24:12Z",
+            "last_commit": "2026-09-19T23:28:16Z",
             "open_issues": 1,
             "owner": "fevieira27",
             "repo": "MoveToBeActive",
@@ -631,7 +631,7 @@
             "open_issues": 4,
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10475,7 +10475,7 @@
             "open_issues": 2,
             "owner": "blackshadev",
             "repo": "wayfinder",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16107,7 +16107,7 @@
             "open_issues": 4,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 151,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16128,7 +16128,7 @@
             "open_issues": 26,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3307,
+            "stars": 3310,
             "topics": [
               "database",
               "garmin",
@@ -16152,7 +16152,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T14:37:49Z",
+            "last_commit": "2026-09-19T14:57:17Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16194,7 +16194,7 @@
             "open_issues": 2,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3017,
+            "stars": 3025,
             "topics": [
               "fitness",
               "garmin",
@@ -16221,7 +16221,7 @@
             "open_issues": 4,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16246,7 +16246,7 @@
             "open_issues": 3,
             "owner": "diegoscarabelli",
             "repo": "garmin-health-data",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "ai-agents",
               "cli",
@@ -16334,7 +16334,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T12:54:31Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 174,
@@ -16571,7 +16571,7 @@
             "open_issues": 0,
             "owner": "RobertWojtowicz",
             "repo": "export2garmin",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "blood-pressure",
               "bluetooth",
@@ -16636,7 +16636,7 @@
             "open_issues": 13,
             "owner": "matin",
             "repo": "garth",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "garmin",
               "garmin-api",
@@ -16859,7 +16859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:30:16.608Z",
+    "last_updated": "2026-09-20T01:31:53.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -16867,8 +16867,8 @@
       "id": 749416501,
       "language": "Rust",
       "license": "WTFPL",
-      "last_commit": "2026-09-14T03:08:53Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-19T09:23:06Z",
+      "open_issues": 1,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
       "stars": 358,
@@ -16881,7 +16881,7 @@
         "monkey-c"
       ]
     },
-    "original_repository_sha": "122c48a5f1d288011bafd047f8bf48868c9aea6b",
+    "original_repository_sha": "f8b1418c4896f6ee361198448f82f4ad2ddd46e4",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
