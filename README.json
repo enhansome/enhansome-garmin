@@ -2018,7 +2018,7 @@
             "open_issues": 17,
             "owner": "RyanDam",
             "repo": "Infocal",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "garmin",
               "watchface"
@@ -5083,7 +5083,7 @@
             "language": "Monkey C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T12:00:02Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "pauljohnston2025",
             "repo": "breadcrumb-garmin",
             "stars": 22,
@@ -7521,7 +7521,7 @@
             "id": 1326696826,
             "language": "Monkey C",
             "license": "Unlicense",
-            "last_commit": "2026-09-13T04:40:51Z",
+            "last_commit": "2026-09-22T14:19:27Z",
             "open_issues": 0,
             "owner": "Karth01",
             "repo": "Garmin-TaskerRemote",
@@ -7673,8 +7673,8 @@
             "id": 540959097,
             "language": "Monkey C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T20:33:33Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T03:07:10Z",
+            "open_issues": 0,
             "owner": "mikeller",
             "repo": "garmin-divesite-weather-widget",
             "stars": 3,
@@ -10056,7 +10056,7 @@
             "open_issues": 4,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -10079,7 +10079,7 @@
             "id": 940091321,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-21T15:38:05Z",
+            "last_commit": "2026-09-22T06:28:35Z",
             "open_issues": 0,
             "owner": "floriangeigl",
             "repo": "Meditate",
@@ -11716,7 +11716,7 @@
             "open_issues": 1,
             "owner": "bderusha",
             "repo": "GarminIQ-CoachCompanion",
-            "stars": 4,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16184,8 +16184,8 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T11:58:26Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-22T06:03:32Z",
+            "open_issues": 6,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
             "stars": 565,
@@ -16210,10 +16210,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T08:31:34Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3035,
+            "stars": 3040,
             "topics": [
               "fitness",
               "garmin",
@@ -16320,7 +16320,7 @@
             "open_issues": 26,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3315,
+            "stars": 3316,
             "topics": [
               "database",
               "garmin",
@@ -16408,7 +16408,7 @@
             "open_issues": 19,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "ble",
               "body-composition",
@@ -16581,7 +16581,7 @@
             "open_issues": 45,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3469,
+            "stars": 3470,
             "topics": [
               "database",
               "garmin",
@@ -16931,7 +16931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:47:30.620Z",
+    "last_updated": "2026-09-23T01:42:57.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
