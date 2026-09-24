@@ -10056,7 +10056,7 @@
             "open_issues": 4,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -14419,7 +14419,7 @@
             "id": 687036405,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-21T11:18:52Z",
+            "last_commit": "2026-09-23T20:47:23Z",
             "open_issues": 1,
             "owner": "buessow",
             "repo": "garmin",
@@ -15464,7 +15464,7 @@
             "open_issues": 61,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4357,
+            "stars": 4359,
             "topics": [
               "c",
               "cplusplus",
@@ -16110,7 +16110,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T17:03:28Z",
+            "last_commit": "2026-09-23T15:10:48Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16210,10 +16210,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T08:31:34Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3040,
+            "stars": 3047,
             "topics": [
               "fitness",
               "garmin",
@@ -16320,7 +16320,7 @@
             "open_issues": 26,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3316,
+            "stars": 3315,
             "topics": [
               "database",
               "garmin",
@@ -16408,7 +16408,7 @@
             "open_issues": 19,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "ble",
               "body-composition",
@@ -16581,7 +16581,7 @@
             "open_issues": 45,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3470,
+            "stars": 3472,
             "topics": [
               "database",
               "garmin",
@@ -16931,7 +16931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:42:57.591Z",
+    "last_updated": "2026-09-24T01:36:59.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
