@@ -517,7 +517,7 @@
             "open_issues": 0,
             "owner": "derbartigelady",
             "repo": "Tac",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7720,8 +7720,8 @@
             "id": 808051780,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:04:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-30T12:18:48Z",
+            "open_issues": 19,
             "owner": "METIQ-Solutions",
             "repo": "evcc-garmin",
             "stars": 7,
@@ -14695,12 +14695,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🐒 Monkey C linter, formatter and coverage together with your best toolbox to work with Monkey C code",
+            "description": "🐒 `rafiki` - Monkey C linter, formatter and coverage together with your best toolbox to work with Monkey C code",
             "homepage": "https://bombsimon.github.io/monkey-c-rs/",
             "id": 600734062,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-29T21:59:39Z",
+            "last_commit": "2026-09-30T19:48:10Z",
             "open_issues": 8,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
@@ -16131,7 +16131,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T18:48:15Z",
+            "last_commit": "2026-09-30T19:49:06Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16339,7 +16339,7 @@
             "open_issues": 2,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3070,
+            "stars": 3073,
             "topics": [
               "fitness",
               "garmin",
@@ -16366,7 +16366,7 @@
             "open_issues": 26,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3326,
+            "stars": 3327,
             "topics": [
               "database",
               "garmin",
@@ -16390,7 +16390,7 @@
             "id": 692113327,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T03:17:20Z",
+            "last_commit": "2026-09-30T04:18:44Z",
             "open_issues": 4,
             "owner": "muktihari",
             "repo": "fit",
@@ -16952,7 +16952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:19:18.748Z",
+    "last_updated": "2026-10-01T02:20:16.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
