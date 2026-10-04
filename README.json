@@ -7563,7 +7563,7 @@
             "id": 1326696826,
             "language": "Monkey C",
             "license": "Unlicense",
-            "last_commit": "2026-09-22T14:19:27Z",
+            "last_commit": "2026-10-03T07:04:13Z",
             "open_issues": 0,
             "owner": "Karth01",
             "repo": "Garmin-TaskerRemote",
@@ -10156,11 +10156,11 @@
             "id": 712437962,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-18T13:39:00Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-03T16:49:54Z",
+            "open_issues": 4,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -16163,11 +16163,11 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T17:36:53Z",
+            "last_commit": "2026-10-03T16:51:43Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "backup",
               "dashboard",
@@ -16373,7 +16373,7 @@
             "open_issues": 2,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3082,
+            "stars": 3085,
             "topics": [
               "fitness",
               "garmin",
@@ -16396,11 +16396,11 @@
             "id": 114247830,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T19:16:43Z",
+            "last_commit": "2026-10-03T23:55:31Z",
             "open_issues": 20,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3326,
+            "stars": 3327,
             "topics": [
               "database",
               "garmin",
@@ -16484,7 +16484,7 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T19:56:52Z",
+            "last_commit": "2026-10-03T20:14:35Z",
             "open_issues": 13,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
@@ -16661,7 +16661,7 @@
             "open_issues": 46,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3480,
+            "stars": 3481,
             "topics": [
               "database",
               "garmin",
@@ -16763,7 +16763,7 @@
             "open_issues": 13,
             "owner": "matin",
             "repo": "garth",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "garmin",
               "garmin-api",
@@ -16909,7 +16909,7 @@
             "open_issues": 13,
             "owner": "bes-dev",
             "repo": "garmy",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16986,7 +16986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:47:07.526Z",
+    "last_updated": "2026-10-04T02:50:25.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
