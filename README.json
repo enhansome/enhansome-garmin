@@ -16163,11 +16163,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T15:52:54Z",
+            "last_commit": "2026-10-06T09:59:14Z",
             "open_issues": 15,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "ble",
               "body-composition",
@@ -16366,8 +16366,8 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:48:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-06T06:03:40Z",
+            "open_issues": 6,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
             "stars": 568,
@@ -16395,7 +16395,7 @@
             "open_issues": 3,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3096,
+            "stars": 3098,
             "topics": [
               "fitness",
               "garmin",
@@ -16530,7 +16530,7 @@
             "open_issues": 6,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16986,7 +16986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:17:10.690Z",
+    "last_updated": "2026-10-06T10:27:19.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
