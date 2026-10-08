@@ -989,7 +989,7 @@
             "open_issues": 91,
             "owner": "warmsound",
             "repo": "crystal-face",
-            "stars": 468,
+            "stars": 467,
             "topics": [
               "ciq",
               "garmin",
@@ -5346,7 +5346,7 @@
             "id": 499574164,
             "language": "Monkey C",
             "license": "GPL-3.0",
-            "last_commit": "2025-10-15T12:51:18Z",
+            "last_commit": "2026-10-07T10:51:30Z",
             "open_issues": 0,
             "owner": "flocsy",
             "repo": "BodyBatteryDF",
@@ -6075,7 +6075,7 @@
                     "open_issues": 9,
                     "owner": "tommyvdz",
                     "repo": "RunPowerWorkout",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": [
                       "datafield",
                       "garmin",
@@ -7725,7 +7725,7 @@
             "open_issues": 16,
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -14733,7 +14733,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-04T17:02:06Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
             "stars": 5,
@@ -14786,7 +14786,7 @@
             "id": 506379970,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-11T08:12:18Z",
+            "last_commit": "2026-10-07T10:17:51Z",
             "open_issues": 1,
             "owner": "flocsy",
             "repo": "garmin-dev-tools",
@@ -15517,7 +15517,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4364,
+            "stars": 4363,
             "topics": [
               "c",
               "cplusplus",
@@ -16237,11 +16237,11 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T11:46:06Z",
+            "last_commit": "2026-10-07T10:36:37Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "backup",
               "dashboard",
@@ -16281,7 +16281,7 @@
             "open_issues": 20,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3333,
+            "stars": 3335,
             "topics": [
               "database",
               "garmin",
@@ -16305,8 +16305,8 @@
             "id": 968299647,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:29:33Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T02:44:02Z",
+            "open_issues": 3,
             "owner": "Nick2bad4u",
             "repo": "FitFileViewer",
             "stars": 69,
@@ -16367,10 +16367,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T11:30:49Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16392,10 +16392,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T07:21:22Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3099,
+            "stars": 3105,
             "topics": [
               "fitness",
               "garmin",
@@ -16530,7 +16530,7 @@
             "open_issues": 6,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 156,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16661,7 +16661,7 @@
             "open_issues": 46,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3481,
+            "stars": 3487,
             "topics": [
               "database",
               "garmin",
@@ -16986,7 +16986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:40:06.516Z",
+    "last_updated": "2026-10-08T02:51:54.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
