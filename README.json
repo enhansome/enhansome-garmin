@@ -659,7 +659,7 @@
             "open_issues": 4,
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 219,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -5073,7 +5073,7 @@
             "open_issues": 18,
             "owner": "maca88",
             "repo": "SmartBikeLights",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7632,7 +7632,7 @@
             "id": 800938718,
             "language": "Monkey C",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T19:31:13Z",
+            "last_commit": "2026-10-08T17:30:21Z",
             "open_issues": 0,
             "owner": "arsfabula",
             "repo": "Insta360-Remote-CIQ",
@@ -15073,9 +15073,9 @@
             "description": null,
             "homepage": null,
             "id": 1003407907,
-            "language": "CartoCSS",
+            "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2025-06-25T01:47:46Z",
+            "last_commit": "2026-10-08T23:21:58Z",
             "open_issues": 1,
             "owner": "DavidBaddeley",
             "repo": "connectiq-tester",
@@ -16164,10 +16164,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T17:06:20Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 179,
+            "stars": 181,
             "topics": [
               "ble",
               "body-composition",
@@ -16278,10 +16278,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-03T23:55:31Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3335,
+            "stars": 3337,
             "topics": [
               "database",
               "garmin",
@@ -16305,8 +16305,8 @@
             "id": 968299647,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T02:44:02Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-08T16:26:54Z",
+            "open_issues": 0,
             "owner": "Nick2bad4u",
             "repo": "FitFileViewer",
             "stars": 69,
@@ -16392,10 +16392,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T07:21:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "fitness",
               "garmin",
@@ -16661,7 +16661,7 @@
             "open_issues": 46,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3487,
+            "stars": 3486,
             "topics": [
               "database",
               "garmin",
@@ -16986,7 +16986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:51:54.404Z",
+    "last_updated": "2026-10-09T03:03:03.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -16994,11 +16994,11 @@
       "id": 749416501,
       "language": "Rust",
       "license": "WTFPL",
-      "last_commit": "2026-10-05T06:06:43Z",
+      "last_commit": "2026-10-08T21:32:08Z",
       "open_issues": 2,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
-      "stars": 364,
+      "stars": 365,
       "topics": [
         "awesome-list",
         "connect-iq",
@@ -17008,7 +17008,7 @@
         "monkey-c"
       ]
     },
-    "original_repository_sha": "4d4892ea73898ea7477358636880a2abd282cf36",
+    "original_repository_sha": "98a80f36a938df98a5ddfa226dccf2141f0ea3c0",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
