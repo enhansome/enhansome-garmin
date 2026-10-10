@@ -112,7 +112,7 @@
             "id": 649902977,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:06:52Z",
+            "last_commit": "2026-10-09T11:59:22Z",
             "open_issues": 8,
             "owner": "Gumix",
             "repo": "garmin-watchfaces",
@@ -656,10 +656,10 @@
             "language": "Monkey C",
             "license": "MIT",
             "last_commit": "2026-04-03T20:01:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -2016,7 +2016,7 @@
                     "open_issues": 17,
                     "owner": "RyanDam",
                     "repo": "Infocal",
-                    "stars": 70,
+                    "stars": 69,
                     "topics": [
                       "garmin",
                       "watchface"
@@ -7721,7 +7721,7 @@
             "id": 574042600,
             "language": "Monkey C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T17:12:05Z",
+            "last_commit": "2026-10-09T19:24:34Z",
             "open_issues": 16,
             "owner": "hatl",
             "repo": "hasscontrol",
@@ -11216,7 +11216,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Yahtzee",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11237,7 +11237,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_TriPeaks",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11258,7 +11258,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_TileSlider",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11279,7 +11279,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_SpaceTrek",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11300,7 +11300,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Sokoban",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11321,7 +11321,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Pyramid",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11342,7 +11342,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_MasterMind",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11363,7 +11363,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Hangman",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11384,7 +11384,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_FlappyWatch",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11405,7 +11405,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Farkle",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11426,7 +11426,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_Blackjack",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -11447,7 +11447,7 @@
             "open_issues": 0,
             "owner": "kzibart",
             "repo": "Garmin_AcesUp",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -12526,7 +12526,7 @@
                     "open_issues": 3,
                     "owner": "vtrifonov-esfiddle",
                     "repo": "TestHrv",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "connect-iq",
                       "connectiq",
@@ -14786,7 +14786,7 @@
             "id": 506379970,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-07T10:17:51Z",
+            "last_commit": "2026-10-09T08:28:44Z",
             "open_issues": 1,
             "owner": "flocsy",
             "repo": "garmin-dev-tools",
@@ -14828,7 +14828,7 @@
             "id": 482094046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T16:16:35Z",
+            "last_commit": "2026-10-09T17:06:39Z",
             "open_issues": 25,
             "owner": "markw65",
             "repo": "monkeyc-optimizer",
@@ -15517,7 +15517,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4363,
+            "stars": 4362,
             "topics": [
               "c",
               "cplusplus",
@@ -16163,7 +16163,7 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T17:06:20Z",
+            "last_commit": "2026-10-09T17:08:30Z",
             "open_issues": 17,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
@@ -16281,7 +16281,7 @@
             "open_issues": 21,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3337,
+            "stars": 3340,
             "topics": [
               "database",
               "garmin",
@@ -16392,10 +16392,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T07:21:22Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3106,
+            "stars": 3115,
             "topics": [
               "fitness",
               "garmin",
@@ -16526,8 +16526,8 @@
             "id": 1195555171,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T21:38:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-09T19:33:09Z",
+            "open_issues": 0,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
             "stars": 158,
@@ -16723,7 +16723,7 @@
             "open_issues": 0,
             "owner": "RobertWojtowicz",
             "repo": "export2garmin",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "blood-pressure",
               "bluetooth",
@@ -16986,7 +16986,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:03:03.563Z",
+    "last_updated": "2026-10-10T02:38:46.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -16998,7 +16998,7 @@
       "open_issues": 2,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
-      "stars": 365,
+      "stars": 366,
       "topics": [
         "awesome-list",
         "connect-iq",
