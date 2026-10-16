@@ -5052,7 +5052,7 @@
             "open_issues": 0,
             "owner": "pauljohnston2025",
             "repo": "breadcrumb-garmin",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -14791,7 +14791,7 @@
           "repo_info": {
             "archived": false,
             "description": "Garmin Connect IQ development in IntelliJ IDEA: Monkey C, building, the simulator and the debugger",
-            "homepage": "https://plugins.jetbrains.com/plugin/com.github.dtretyakov.monkeyc",
+            "homepage": "https://plugins.jetbrains.com/plugin/34203-monkey-c/edit",
             "id": 1360585357,
             "language": "Kotlin",
             "license": "Apache-2.0",
@@ -14824,8 +14824,8 @@
             "id": 600734062,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:25:14Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-15T22:05:35Z",
+            "open_issues": 2,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
             "stars": 5,
@@ -15546,7 +15546,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4364,
+            "stars": 4365,
             "topics": [
               "c",
               "cplusplus",
@@ -15700,7 +15700,7 @@
             "open_issues": 14,
             "owner": "garmin",
             "repo": "connectiq-apps",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16235,10 +16235,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-09T19:33:09Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 158,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16322,8 +16322,8 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:08:02Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-15T14:54:30Z",
+            "open_issues": 2,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
             "stars": 571,
@@ -16379,11 +16379,11 @@
             "id": 114247830,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-13T14:44:50Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-15T21:28:15Z",
+            "open_issues": 17,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3348,
+            "stars": 3349,
             "topics": [
               "database",
               "garmin",
@@ -16441,11 +16441,11 @@
             "id": 231597598,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:54:28Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-15T10:03:52Z",
+            "open_issues": 3,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3142,
+            "stars": 3146,
             "topics": [
               "fitness",
               "garmin",
@@ -16686,11 +16686,11 @@
             "id": 966098572,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-12T15:44:39Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-15T12:07:43Z",
+            "open_issues": 43,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3496,
+            "stars": 3497,
             "topics": [
               "database",
               "garmin",
@@ -17015,7 +17015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:44:51.818Z",
+    "last_updated": "2026-10-16T01:36:21.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
