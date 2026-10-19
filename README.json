@@ -441,7 +441,7 @@
             "open_issues": 0,
             "owner": "dennybiasiolli",
             "repo": "garmin-connect-iq",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "garmin",
               "garmin-connect",
@@ -5203,7 +5203,7 @@
             "open_issues": 5,
             "owner": "wwarby",
             "repo": "walker",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7537,7 +7537,7 @@
             "id": 587089020,
             "language": "Monkey C",
             "license": null,
-            "last_commit": "2026-10-17T13:55:23Z",
+            "last_commit": "2026-10-18T22:10:40Z",
             "open_issues": 0,
             "owner": "ad220",
             "repo": "gopro-remote-connectiq",
@@ -10010,8 +10010,8 @@
             "id": 976243883,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-10-04T12:31:28Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-18T19:09:24Z",
+            "open_issues": 7,
             "owner": "zetxek",
             "repo": "garmin-qr",
             "stars": 7,
@@ -14753,7 +14753,7 @@
             "id": 506379970,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-09T08:28:44Z",
+            "last_commit": "2026-10-18T10:32:41Z",
             "open_issues": 1,
             "owner": "flocsy",
             "repo": "garmin-dev-tools",
@@ -15060,7 +15060,7 @@
             "open_issues": 2,
             "owner": "pcolby",
             "repo": "connectiq-sdk-manager",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "appimage",
               "connect-iq",
@@ -15546,7 +15546,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4364,
+            "stars": 4365,
             "topics": [
               "c",
               "cplusplus",
@@ -16193,7 +16193,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T10:07:43Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 188,
@@ -16282,7 +16282,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T06:27:38Z",
+            "last_commit": "2026-10-18T08:20:48Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16445,7 +16445,7 @@
             "open_issues": 0,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3157,
+            "stars": 3160,
             "topics": [
               "fitness",
               "garmin",
@@ -17015,7 +17015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:27:35.318Z",
+    "last_updated": "2026-10-19T01:35:32.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
