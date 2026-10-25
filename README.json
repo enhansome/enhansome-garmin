@@ -4910,7 +4910,7 @@
                     "open_issues": 1,
                     "owner": "CodyJung",
                     "repo": "connectiq-apps",
-                    "stars": 50,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7558,7 +7558,7 @@
             "id": 261253658,
             "language": "Monkey C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T17:12:03Z",
+            "last_commit": "2026-10-24T18:10:51Z",
             "open_issues": 1,
             "owner": "pyrob2142",
             "repo": "FastingWidget",
@@ -9938,8 +9938,8 @@
             "id": 976243883,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-10-18T19:09:24Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-24T19:26:31Z",
+            "open_issues": 6,
             "owner": "zetxek",
             "repo": "garmin-qr",
             "stars": 7,
@@ -14753,7 +14753,7 @@
             "id": 600734062,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:59:06Z",
+            "last_commit": "2026-10-24T21:23:25Z",
             "open_issues": 2,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
@@ -16192,7 +16192,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T17:57:47Z",
+            "last_commit": "2026-10-24T14:02:23Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16236,7 +16236,7 @@
             "open_issues": 16,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3356,
+            "stars": 3358,
             "topics": [
               "database",
               "garmin",
@@ -16323,7 +16323,7 @@
             "open_issues": 0,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3200,
+            "stars": 3204,
             "topics": [
               "fitness",
               "garmin",
@@ -16383,7 +16383,7 @@
             "open_issues": 43,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3511,
+            "stars": 3515,
             "topics": [
               "database",
               "garmin",
@@ -16417,7 +16417,7 @@
             "open_issues": 11,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 190,
+            "stars": 192,
             "topics": [
               "ble",
               "body-composition",
@@ -17048,7 +17048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:54:35.002Z",
+    "last_updated": "2026-10-25T01:31:13.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
