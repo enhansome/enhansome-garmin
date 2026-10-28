@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "fevieira27",
             "repo": "MoveToBeActive",
-            "stars": 47,
+            "stars": 46,
             "topics": [
               "ciq",
               "garmin",
@@ -659,7 +659,7 @@
             "open_issues": 5,
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -791,7 +791,7 @@
             "open_issues": 1,
             "owner": "blotspot",
             "repo": "garmin-watchface-protomolecule",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "connect-iq",
               "expanse",
@@ -1082,7 +1082,7 @@
             "open_issues": 0,
             "owner": "BDH-Software",
             "repo": "ThePlanets-Watchface",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -5772,7 +5772,7 @@
                     "open_issues": 5,
                     "owner": "markdotai",
                     "repo": "emtb",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": [
                       "ble",
                       "bluetooth",
@@ -7651,7 +7651,7 @@
             "open_issues": 16,
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10039,7 +10039,7 @@
             "open_issues": 4,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -14732,8 +14732,8 @@
             "id": 600734062,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T15:40:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-27T17:47:26Z",
+            "open_issues": 3,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
             "stars": 5,
@@ -15700,7 +15700,7 @@
             "open_issues": 14,
             "owner": "garmin",
             "repo": "connectiq-apps",
-            "stars": 591,
+            "stars": 592,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -15747,7 +15747,7 @@
             "open_issues": 1,
             "owner": "AndrewKhassapov",
             "repo": "connect-iq",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "101",
               "connect-iq",
@@ -16192,7 +16192,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T18:24:12Z",
+            "last_commit": "2026-10-27T21:19:24Z",
             "open_issues": 2,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16232,11 +16232,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T14:06:13Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-28T00:43:52Z",
+            "open_issues": 17,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 202,
+            "stars": 206,
             "topics": [
               "ble",
               "body-composition",
@@ -16307,11 +16307,11 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T11:18:34Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-27T06:04:13Z",
+            "open_issues": 15,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 573,
+            "stars": 574,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16336,7 +16336,7 @@
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3213,
+            "stars": 3218,
             "topics": [
               "fitness",
               "garmin",
@@ -16496,11 +16496,11 @@
             "id": 966098572,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T12:07:43Z",
+            "last_commit": "2026-10-27T21:22:12Z",
             "open_issues": 44,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3518,
+            "stars": 3522,
             "topics": [
               "database",
               "garmin",
@@ -17048,7 +17048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:22:08.626Z",
+    "last_updated": "2026-10-28T02:32:42.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -17056,7 +17056,7 @@
       "id": 749416501,
       "language": "Rust",
       "license": "WTFPL",
-      "last_commit": "2026-10-26T02:58:58Z",
+      "last_commit": "2026-10-27T20:41:17Z",
       "open_issues": 2,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
@@ -17070,7 +17070,7 @@
         "monkey-c"
       ]
     },
-    "original_repository_sha": "33ce8ef33a7f53d00a5778754150d3321e476953",
+    "original_repository_sha": "e9425bf591a58f9ab8e365062d0b4aa8781a1268",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
