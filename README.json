@@ -15,8 +15,8 @@
             "id": 172134631,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-04T20:28:11Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-07T09:31:23Z",
+            "open_issues": 11,
             "owner": "samuelmr",
             "repo": "garmin-abouttime",
             "stars": 38,
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "dev-whiterice",
             "repo": "Essence",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7507,7 +7507,7 @@
             "open_issues": 12,
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 264,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -10026,8 +10026,8 @@
           "description": "333fred/fta-monitor-garmin-watchapp",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "description": "Port of https://github.com/333fred/fta-monitor-watchapp to my new Garmin Vivoactive HR",
+            "archived": true,
+            "description": "This repo is archived and further development is done at https://github.com/333fred/fta-garmin-companion",
             "homepage": null,
             "id": 116921407,
             "language": "Monkey C",
@@ -10103,7 +10103,7 @@
             "open_issues": 5,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -14410,7 +14410,7 @@
             "open_issues": 0,
             "owner": "gimportexportdevs",
             "repo": "gimporter",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16195,10 +16195,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-06T16:11:22Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 217,
+            "stars": 216,
             "topics": [
               "ble",
               "body-composition",
@@ -16346,7 +16346,7 @@
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3249,
+            "stars": 3253,
             "topics": [
               "fitness",
               "garmin",
@@ -16369,11 +16369,11 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T02:55:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-07T05:37:33Z",
+            "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 582,
+            "stars": 586,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16426,7 +16426,7 @@
             "open_issues": 47,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3537,
+            "stars": 3540,
             "topics": [
               "database",
               "garmin",
@@ -16531,7 +16531,7 @@
             "id": 692113327,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T05:19:59Z",
+            "last_commit": "2026-11-07T05:33:57Z",
             "open_issues": 3,
             "owner": "muktihari",
             "repo": "fit",
@@ -17006,7 +17006,7 @@
             "open_issues": 13,
             "owner": "bes-dev",
             "repo": "garmy",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -17083,7 +17083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:07:21.383Z",
+    "last_updated": "2026-11-08T02:39:30.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
