@@ -15,7 +15,7 @@
             "id": 172134631,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-07T09:31:23Z",
+            "last_commit": "2026-11-08T20:40:07Z",
             "open_issues": 11,
             "owner": "samuelmr",
             "repo": "garmin-abouttime",
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "ahuggel",
             "repo": "SwissRailwayClock",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -659,7 +659,7 @@
             "open_issues": 4,
             "owner": "ludw",
             "repo": "Segment34mkII",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -797,7 +797,7 @@
             "open_issues": 1,
             "owner": "SylvainGa",
             "repo": "crystal-face",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -968,7 +968,7 @@
             "open_issues": 91,
             "owner": "warmsound",
             "repo": "crystal-face",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "ciq",
               "garmin",
@@ -5111,8 +5111,8 @@
             "id": 320400968,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-08-30T21:56:45Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-08T21:35:49Z",
+            "open_issues": 17,
             "owner": "maca88",
             "repo": "SmartBikeLights",
             "stars": 173,
@@ -5371,7 +5371,7 @@
             "open_issues": 13,
             "owner": "gcormier9",
             "repo": "GRun",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -7632,9 +7632,9 @@
             "description": "Garmin Connect IQ Remote for Insta360 Cameras",
             "homepage": null,
             "id": 800938718,
-            "language": "Monkey C",
+            "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-12T06:09:01Z",
+            "last_commit": "2026-11-08T16:22:56Z",
             "open_issues": 0,
             "owner": "arsfabula",
             "repo": "Insta360-Remote-CIQ",
@@ -10103,7 +10103,7 @@
             "open_issues": 5,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -10904,7 +10904,7 @@
             "language": "Monkey C",
             "license": null,
             "last_commit": "2025-09-13T13:50:06Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "phil-mitchell",
             "repo": "garmin-curling",
             "stars": 1,
@@ -10924,7 +10924,7 @@
             "id": 122047238,
             "language": "Monkey C",
             "license": "GPL-3.0",
-            "last_commit": "2025-08-26T23:09:44Z",
+            "last_commit": "2026-11-09T00:31:21Z",
             "open_issues": 0,
             "owner": "rexMingla",
             "repo": "low-battery-mode",
@@ -11518,7 +11518,7 @@
             "open_issues": 5,
             "owner": "BleachDev",
             "repo": "GarminQ",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "daily-diary",
               "experience-sampling-method"
@@ -14836,7 +14836,7 @@
             "open_issues": 2,
             "owner": "pcolby",
             "repo": "connectiq-sdk-manager",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "appimage",
               "connect-iq",
@@ -16194,11 +16194,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T16:11:22Z",
+            "last_commit": "2026-11-08T16:45:35Z",
             "open_issues": 10,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 216,
+            "stars": 215,
             "topics": [
               "ble",
               "body-composition",
@@ -16346,7 +16346,7 @@
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3253,
+            "stars": 3258,
             "topics": [
               "fitness",
               "garmin",
@@ -16373,7 +16373,7 @@
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 586,
+            "stars": 588,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16398,7 +16398,7 @@
             "open_issues": 18,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3365,
+            "stars": 3366,
             "topics": [
               "database",
               "garmin",
@@ -16422,7 +16422,7 @@
             "id": 966098572,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-28T10:38:19Z",
+            "last_commit": "2026-11-08T21:41:49Z",
             "open_issues": 47,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
@@ -16514,7 +16514,7 @@
             "open_issues": 3,
             "owner": "nrvim",
             "repo": "garmin-givemydata",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-09-11T01:23:58.354Z"
@@ -16597,7 +16597,7 @@
             "id": 695205704,
             "language": "Vue",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T06:16:38Z",
+            "last_commit": "2026-11-08T18:19:35Z",
             "open_issues": 3,
             "owner": "openivity",
             "repo": "openivity.github.io",
@@ -17083,7 +17083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:39:30.733Z",
+    "last_updated": "2026-11-09T02:55:40.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
@@ -17091,11 +17091,11 @@
       "id": 749416501,
       "language": "Rust",
       "license": "WTFPL",
-      "last_commit": "2026-11-02T21:31:40Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-08T13:49:34Z",
+      "open_issues": 2,
       "owner": "bombsimon",
       "repo": "awesome-garmin",
-      "stars": 382,
+      "stars": 385,
       "topics": [
         "awesome-list",
         "connect-iq",
@@ -17105,7 +17105,7 @@
         "monkey-c"
       ]
     },
-    "original_repository_sha": "8f23d4c0bcab485c74436294b6d5563b6e7e37a2",
+    "original_repository_sha": "7a3ddd1ccd0496e7d37ded2e588c02910dcd40e9",
     "enhanced_repository": "enhansome/enhansome-garmin",
     "enhanced_repository_description": null,
     "title": "Awesome Garmin with stars"
