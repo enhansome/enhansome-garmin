@@ -7503,7 +7503,7 @@
             "id": 800938718,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-13T21:11:24Z",
+            "last_commit": "2026-11-14T19:57:14Z",
             "open_issues": 1,
             "owner": "arsfabula",
             "repo": "Insta360-Remote-CIQ",
@@ -7949,7 +7949,7 @@
             "open_issues": 8,
             "owner": "zmullett",
             "repo": "connectiq-sonos",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -9929,7 +9929,7 @@
             "open_issues": 5,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 377,
+            "stars": 379,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -10057,7 +10057,7 @@
             "id": 661281498,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T07:34:06Z",
+            "last_commit": "2026-11-14T23:46:22Z",
             "open_issues": 0,
             "owner": "mikeller",
             "repo": "garmin-christchurch-bus-widget",
@@ -15575,7 +15575,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-03-30T16:23:12Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "google",
             "repo": "open-location-code",
             "stars": 4372,
@@ -15732,7 +15732,7 @@
             "open_issues": 14,
             "owner": "garmin",
             "repo": "connectiq-apps",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -15779,7 +15779,7 @@
             "open_issues": 1,
             "owner": "AndrewKhassapov",
             "repo": "connect-iq",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "101",
               "connect-iq",
@@ -16228,7 +16228,7 @@
             "open_issues": 47,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3552,
+            "stars": 3554,
             "topics": [
               "database",
               "garmin",
@@ -16283,7 +16283,7 @@
             "open_issues": 9,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "ble",
               "body-composition",
@@ -16402,7 +16402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Secure, local, offline database for Garmin Connect health data. Windows desktop app, no setup needed. Built for long-term local analysis, dashboards, local AI and MCP-Server. Export your data as JSON, CSV and InfluxDB Line Protocol.",
+            "description": "Local database for offline analysis of Garmin health data. Combines Garmin Connect API and GDPR export data with weather, pollen and air quality context from Open-Meteo and Bright Sky. Includes dashboards, Excel reports and a local MCP server for AI-assisted analysis. Export as JSON, CSV and InfluxDB Line Protocol. Windows app, no setup required.",
             "homepage": null,
             "id": 1184570491,
             "language": "Python",
@@ -16448,7 +16448,7 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-05T08:41:40Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "muktihari",
             "repo": "rustyfit",
             "stars": 16,
@@ -16575,7 +16575,7 @@
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3268,
+            "stars": 3273,
             "topics": [
               "fitness",
               "garmin",
@@ -16903,8 +16903,8 @@
             "id": 289458092,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-23T10:28:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-14T11:07:23Z",
+            "open_issues": 0,
             "owner": "RobertWojtowicz",
             "repo": "export2garmin",
             "stars": 276,
@@ -17113,7 +17113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:30:07.632Z",
+    "last_updated": "2026-11-15T02:59:31.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
