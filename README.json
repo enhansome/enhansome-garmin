@@ -24,6 +24,7 @@
               "connect-iq",
               "expanse",
               "garmin",
+              "garmin-watchface",
               "monkey-c",
               "the-expanse"
             ]
@@ -7501,10 +7502,10 @@
             "description": "A Garmin widget that connects your wearable or cycling computer to openHAB, an open-source home automation platform.",
             "homepage": "https://www.openhab.org/docs/apps/garmin/",
             "id": 973282769,
-            "language": "Monkey C",
+            "language": "Python",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-24T05:17:44Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-25T02:39:36Z",
+            "open_issues": 45,
             "owner": "openhab",
             "repo": "openhab-garmin",
             "stars": 7,
@@ -7665,7 +7666,7 @@
             "open_issues": 4,
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 268,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -9929,7 +9930,7 @@
             "id": 661281498,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T09:51:38Z",
+            "last_commit": "2026-11-24T08:50:49Z",
             "open_issues": 0,
             "owner": "mikeller",
             "repo": "garmin-christchurch-bus-widget",
@@ -9952,11 +9953,11 @@
             "id": 712437962,
             "language": "Monkey C",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:04:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-24T21:18:34Z",
+            "open_issues": 8,
             "owner": "house-of-abbey",
             "repo": "GarminHomeAssistant",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -10128,7 +10129,7 @@
             "open_issues": 0,
             "owner": "333fred",
             "repo": "fta-garmin-companion",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-11-10T04:45:16.564Z"
@@ -11042,7 +11043,7 @@
             "open_issues": 1,
             "owner": "Gualor",
             "repo": "garmin-gotchi",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "garmin",
               "garmin-connect-iq",
@@ -14770,11 +14771,11 @@
             "id": 600734062,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-23T21:49:31Z",
+            "last_commit": "2026-11-24T21:11:03Z",
             "open_issues": 23,
             "owner": "bombsimon",
             "repo": "monkey-c-rs",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "formatter",
               "garmin",
@@ -14823,7 +14824,7 @@
             "id": 1436094096,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-17T09:15:56Z",
+            "last_commit": "2026-11-24T09:16:13Z",
             "open_issues": 4,
             "owner": "idoo",
             "repo": "connect-iq-mcp",
@@ -15529,7 +15530,7 @@
             "open_issues": 0,
             "owner": "garmin",
             "repo": "connect-personal-api-python",
-            "stars": 113,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-11-24T07:03:17.270Z"
@@ -15578,7 +15579,7 @@
             "open_issues": 58,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4373,
+            "stars": 4372,
             "topics": [
               "c",
               "cplusplus",
@@ -15732,7 +15733,7 @@
             "open_issues": 14,
             "owner": "garmin",
             "repo": "connectiq-apps",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -16344,7 +16345,7 @@
             "open_issues": 19,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3369,
+            "stars": 3368,
             "topics": [
               "database",
               "garmin",
@@ -16462,11 +16463,11 @@
             "id": 1383128333,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T11:51:26Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-24T12:50:27Z",
+            "open_issues": 1,
             "owner": "DynamicsNinja",
             "repo": "garminconnect-js",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "fitness",
               "garmin",
@@ -16588,11 +16589,11 @@
             "id": 966098572,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-08T21:41:49Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-24T13:43:38Z",
+            "open_issues": 48,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3564,
+            "stars": 3565,
             "topics": [
               "database",
               "garmin",
@@ -16704,7 +16705,7 @@
             "open_issues": 3,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3287,
+            "stars": 3291,
             "topics": [
               "fitness",
               "garmin",
@@ -17113,7 +17114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T07:03:17.270Z",
+    "last_updated": "2026-11-25T05:38:10.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
