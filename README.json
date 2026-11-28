@@ -7504,8 +7504,8 @@
             "id": 973282769,
             "language": "Python",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-26T15:59:25Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-27T21:34:21Z",
+            "open_issues": 44,
             "owner": "openhab",
             "repo": "openhab-garmin",
             "stars": 7,
@@ -7666,7 +7666,7 @@
             "open_issues": 4,
             "owner": "hatl",
             "repo": "hasscontrol",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:02.136Z"
@@ -9930,7 +9930,7 @@
             "id": 661281498,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T07:21:16Z",
+            "last_commit": "2026-11-27T18:37:00Z",
             "open_issues": 0,
             "owner": "mikeller",
             "repo": "garmin-christchurch-bus-widget",
@@ -15530,7 +15530,7 @@
             "open_issues": 0,
             "owner": "garmin",
             "repo": "connect-personal-api-python",
-            "stars": 116,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-11-24T07:03:17.270Z"
@@ -15579,7 +15579,7 @@
             "open_issues": 58,
             "owner": "google",
             "repo": "open-location-code",
-            "stars": 4372,
+            "stars": 4374,
             "topics": [
               "c",
               "cplusplus",
@@ -16225,7 +16225,7 @@
             "id": 1184570491,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T18:56:11Z",
+            "last_commit": "2026-11-27T18:10:39Z",
             "open_issues": 3,
             "owner": "Wewoc",
             "repo": "Garmin_Local_Archive",
@@ -16299,7 +16299,7 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T09:58:43Z",
+            "last_commit": "2026-11-27T22:45:28Z",
             "open_issues": 10,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
@@ -16345,7 +16345,7 @@
             "open_issues": 18,
             "owner": "tcgoetz",
             "repo": "GarminDB",
-            "stars": 3368,
+            "stars": 3369,
             "topics": [
               "database",
               "garmin",
@@ -16369,8 +16369,8 @@
             "id": 1076284670,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T20:27:07Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-28T04:53:52Z",
+            "open_issues": 4,
             "owner": "diegoscarabelli",
             "repo": "garmin-health-data",
             "stars": 136,
@@ -16405,11 +16405,11 @@
             "id": 383732864,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-27T05:15:19Z",
+            "last_commit": "2026-11-27T05:18:53Z",
             "open_issues": 1,
             "owner": "cyberjunky",
             "repo": "home-assistant-garmin_connect",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "garmin-connect",
               "home-assistant",
@@ -16593,7 +16593,7 @@
             "open_issues": 46,
             "owner": "arpanghosh8453",
             "repo": "garmin-grafana",
-            "stars": 3566,
+            "stars": 3568,
             "topics": [
               "database",
               "garmin",
@@ -16705,7 +16705,7 @@
             "open_issues": 4,
             "owner": "cyberjunky",
             "repo": "python-garminconnect",
-            "stars": 3292,
+            "stars": 3293,
             "topics": [
               "fitness",
               "garmin",
@@ -17114,7 +17114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:17:24.942Z",
+    "last_updated": "2026-11-28T04:54:49.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Garmin application, both for Garmin devices and other tools",
